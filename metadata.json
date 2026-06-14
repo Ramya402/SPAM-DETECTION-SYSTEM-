@@ -1,0 +1,6 @@
+{
+  "name": "Scam Detector",
+  "description": "An intelligent AI-powered multi-channel platform to detect, analyze, and explain phishing, fraud, and scams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
